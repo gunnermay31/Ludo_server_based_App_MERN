@@ -5,10 +5,6 @@ Ludo Online is a multiplayer web-based implementation of the classic board game 
 <p align="center">
 >> <a href="http://ec2-51-20-142-4.eu-north-1.compute.amazonaws.com:8080">Play online here</a> <<
   </p>
-  
-<p align="center">
->> <a href="https://youtu.be/mGMnH9Nvsyw">Watch YouTube Video here</a> <<
-  </p>
 
 ## Architecture
 
